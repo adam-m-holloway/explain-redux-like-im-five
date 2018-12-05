@@ -4,7 +4,7 @@ Basic application scaffolded using [create-react-app](https://github.com/faceboo
 
 Based on the article [Explain Redux like I'm five](https://dev.to/hemanth/explain-redux-like-im-five), however builds a fully working application to demonstrate the fundamentals of how to use Redux in a React application.
 
-You can follow me on Twitter at [@adam.holloway](https://twitter.com/adam_holloway)
+You can follow me on Twitter at [@adam_holloway](https://twitter.com/adam_holloway)
 
 ## Setup
 1. Install the NPM packages `npm i`
